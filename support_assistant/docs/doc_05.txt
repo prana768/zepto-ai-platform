@@ -1,0 +1,3 @@
+Cancellation
+
+free before status Packed, typically first 2 min; after packed cannot cancel through app; Zepto-side undeliverable packed order auto-cancelled/full refund.
