@@ -94,3 +94,4 @@ The repository contains the datasets, generated outputs, model artifacts, suppor
 ## Git Workflow
 
 This project was developed using a feature-branch workflow. The completed platform was committed on a dedicated feature branch and then merged into the main branch.
+The repository contains the complete data pipeline, analytics, and support assistant modules.
